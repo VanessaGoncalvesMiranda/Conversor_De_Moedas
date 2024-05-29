@@ -1,0 +1,32 @@
+[
+  {
+    "base_code": "USD",
+    "target_code": "ARS",
+    "conversion_rate": 864.75
+  },
+  {
+    "base_code": "ARS",
+    "target_code": "USD",
+    "conversion_rate": 0.001156
+  },
+  {
+    "base_code": "USD",
+    "target_code": "BRL",
+    "conversion_rate": 5.1601
+  },
+  {
+    "base_code": "BRL",
+    "target_code": "USD",
+    "conversion_rate": 0.1936
+  },
+  {
+    "base_code": "USD",
+    "target_code": "COP",
+    "conversion_rate": 3875.0469
+  },
+  {
+    "base_code": "COP",
+    "target_code": "USD",
+    "conversion_rate": 2.5806E-4
+  }
+]
